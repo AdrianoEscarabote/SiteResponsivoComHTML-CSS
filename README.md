@@ -1,1 +1,2 @@
-# SiteResponsivoComHTML-CSS
+Fiz esse projeto com o intuito de sanar algumas dúvidas que tinha sobre responsividade. Estou dando mais uma revisada em responsividade com apenas css, porque fui desenvolver um projeto simples e fiquei com algumas dúvidas sobre o assunto, apesar de conhecer bem, ainda não o domino por completo. Mas com um pouco mais de tempo de estudo, e prática acredito dominar o assunto, afinal não é algo tão difícil.
+Projeto inspirado nesse vídeo do YouTube: https://www.youtube.com/watch?v=gRIWFYRaVto
